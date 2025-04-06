@@ -190,7 +190,7 @@
     <value>這表示它已整合至 Windows 檔案總管中。</value>
   </data>
   <data name="FileConverterStartHelp3" xml:space="preserve">
-    <value>要使用 File Converter，請開啟檔案總管，並在您想要轉換的任何檔案上按滑鼠右鍵以顯示選單，您會在其中找到 File Converter 的各項命令（請參閱說明文件以了解支援的檔案格式）。</value>
+    <value>要使用 File Converter，請開啟檔案總管，並在您想要轉換的任何檔案上按滑鼠右鍵以顯示選單，您會在其中找到 File Converter 的各項指令（請參閱說明文件以了解支援的檔案格式）。</value>
   </data>
   <data name="FileNameTemplate" xml:space="preserve">
     <value>檔案名稱格式</value>
